@@ -1,7 +1,7 @@
 <x-layout>
     <x-slot:heading>
-        User Data
+        Registration
     </x-slot:heading>
     
-    <h1>User Data</h1>
+    <h1>Registration</h1>
 </x-layout>
