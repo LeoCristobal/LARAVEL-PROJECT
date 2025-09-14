@@ -1,7 +1,7 @@
 <x-layout>
     <x-slot:heading>
-        User Data
+        Contact
     </x-slot:heading>
-    
-    <h1>User Data</h1>
+
+
 </x-layout>
