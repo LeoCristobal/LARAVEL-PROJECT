@@ -10,6 +10,6 @@
                     <strong> {{ $job['title'] }}:</strong> Pays {{ $job['salary'] }}
             </a>
         </li>
-        @endforeach;
+        @endforeach
     </ul>
 </x-layout>
